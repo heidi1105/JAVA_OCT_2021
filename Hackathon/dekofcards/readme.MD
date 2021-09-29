@@ -28,4 +28,4 @@ To make the card more fun to play, you could also show the cards as Unicode or i
 https://en.wikipedia.org/wiki/Playing_cards_in_Unicode   : To show the cards in Unicode. 
 https://stackoverflow.com/questions/36829134/printing-a-poker-hand-using-ascii-horizontal-in-java : To show the cards in ascii. 
 https://codereview.stackexchange.com/questions/82103/ascii-fication-of-playing-cards : This is the ascii in Python but this site explains very clearly how the ascii shows the playing cards in terminal. 
-![image](https://user-images.githubusercontent.com/28776845/135339689-437c97ed-5018-468e-9532-4303b0aec38f.png)
+
